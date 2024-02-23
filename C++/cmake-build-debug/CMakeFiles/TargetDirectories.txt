@@ -1,0 +1,3 @@
+C:/Users/selvi/Desktop/Universidad/2do. Semestre/C++/cmake-build-debug/CMakeFiles/C__.dir
+C:/Users/selvi/Desktop/Universidad/2do. Semestre/C++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/selvi/Desktop/Universidad/2do. Semestre/C++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
